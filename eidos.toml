@@ -1,0 +1,7 @@
+name = "travel-agent"
+version = "0.1.0"
+description = "Travel-booking agent"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
