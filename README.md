@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `travel-agent_safe.os` — the correct design.
-- `travel-agent_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `travel-agent_safe.wave` — the correct design.
+- `travel-agent_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
